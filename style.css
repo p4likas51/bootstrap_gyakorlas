@@ -38,3 +38,12 @@ body{
     width: 90%;
 }
 
+.carousel-inner{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.img_radius{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
