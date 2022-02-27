@@ -1,5 +1,5 @@
 body{
-    background-color: #ddd;
+    background-image: url('img/wallpaper2_1920x1080.jpeg');
 }
 
 .navbar{
@@ -28,4 +28,6 @@ body{
 }
 
 
-
+.arrow_black{
+    filter: invert(100%);
+}
